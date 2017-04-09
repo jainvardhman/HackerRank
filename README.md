@@ -1,2 +1,2 @@
 # HackerRank
-Starting to solve various hackerrank ques
+Starting to solve various hackerrank
