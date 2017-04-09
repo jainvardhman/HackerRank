@@ -1,2 +1,2 @@
 # HackerRank
-Starting to solve various  quesfdf
+Starting to solve various  ques
