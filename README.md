@@ -1,3 +1,3 @@
 # HackerRank
-Starting to solve various questtt
-another test
+Starting to solve various ques
+testing commit message
